@@ -1,0 +1,15 @@
+{
+    "name": "unityFundsToken",
+    "description": "This allow one to collect funds for their projects",
+    "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.lendahand.com%2Fen-EU%2Fblog%2F862-crowdfunding-in-the-netherlands-everything-you-need-to-know&psig=AOvVaw3nvvuc6eS_TBYafpS8MNBz&ust=1712510613095000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIDm04KOroUDFQAAAAAdAAAAABAR",
+    "attributes": [
+        {
+            "trait_type": "Mission Moon",
+            "value": "1000"
+        },
+        {
+            "trait_type": "Traitor",
+            "value": "500"
+        }
+    ]
+}
