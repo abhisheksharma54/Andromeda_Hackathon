@@ -1,0 +1,15 @@
+{
+    "name": "AucDoToken",
+    "description": "This will one to ",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKH4T4UBbmDN0skdQyoeAa_nHA63U1EI8nBrIRxU5sYdSkuHo1j4tpuFkxWXJy-nUUSpw&usqp=CAU",
+    "attributes": [
+        {
+            "trait_type": "spotNews",
+            "value": "1000"
+        },
+        {
+            "trait_type": "hackMo",
+            "value": "500"
+        }
+    ]
+}
